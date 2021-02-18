@@ -285,7 +285,7 @@ function qSort(array, start = 0, end = array.length) {
 
 // console.log(qSort(bigList));
 
-/********************************************* PROBLEM 3 *********************************/
+/********************************************* PROBLEM 4 *********************************/
 
 function mergeEm(left, right) {
   // initialize new array to hold sorted order
@@ -349,4 +349,4 @@ console.log(msort(testList));
 
 console.log(msort(bigList));
 
-/********************************************* PROBLEM 4 *********************************/
+/********************************************* PROBLEM 5 *********************************/
